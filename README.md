@@ -1,1 +1,1 @@
-# spaceranger_setup
+# spaceranger local setup guide
